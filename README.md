@@ -37,6 +37,8 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 
 ### BI: Analytics & Reporting (Data Analysis)
 
+cover various analysIs such as database exploration, measures and metrics, time-based trends, cumulative analytics, segmentation, and more. This repository contains SQL queries designed to help data analysts and BI professionals quickly explore, segment, and analyze data within a relational database.
+
 #### Objective
 Develop SQL-based analytics to deliver detailed insights into:
 
