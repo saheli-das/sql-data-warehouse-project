@@ -12,12 +12,12 @@ The data architecture for this project follows Medallion Architecture Bronze, Si
 
 ## 📖 Project Overview
 
-This project involved:
+This project involves:
 
-  **1.Documentation & Planning:** Utilized Notion to document architecture decisions, data dictionary, and project workflows. 
+  **1.Documentation & Planning:** Utilizing Notion to document architecture decisions, data dictionary, and project workflows. 
   **2.Data Architecture:** Designing a Modern Data Warehouse Using Medallion Architecture Bronze, Silver, and Gold layers.
   **3.ETL Pipelines:** Extracting, transforming, and loading data from source systems into the warehouse.
-  **4.Data Modeling:** Developing fact and dimension tables optimized for analytical queries. Used draw.io to design ER diagrams and visualize schema 
+  **4.Data Modeling:** Developing fact and dimension tables optimized for analytical queries. Using draw.io to design ER diagrams and visualize schema 
                        relationships. 
   **5.Analytics & Reporting:** Creating SQL-based reports and dashboards for actionable insights.
 
